@@ -26,18 +26,27 @@ It is designed for researchers, students, and developers working on smart city t
 
 📈 Results
 The project generates:
+
 Traffic density plots
+
 Model prediction charts
+
 Error metrics such as RMSE, MAE, R²
+
 All output files are saved inside the results/ directory.
 
 
 🛠️ Technologies Used
 Python 3.x
+
 NumPy, Pandas
+
 Scikit-learn
+
 Matplotlib / Seaborn
 
 👤 Author
+
 Vishwachari
+
 Feel free to connect or report issues in the repository
