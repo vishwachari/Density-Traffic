@@ -10,11 +10,17 @@ It is designed for researchers, students, and developers working on smart city t
 
 
 🧠 Features
+
 ✔️ Data preprocessing & cleaning
+
 ✔️ Density calculation from raw traffic parameters
+
 ✔️ Feature engineering for traffic prediction
+
 ✔️ Model training using ML algorithms
+
 ✔️ Visualization of data trends & predictions
+
 ✔️ Modular and easy-to-extend code
 
 
